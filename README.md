@@ -5,7 +5,7 @@ Dynamic deep neural clusters in Python with strong GPU acceleration
 Roger Wolcott Sperry
 
 "the normal brain is organized into modular-processing systems, hundreds of them or maybe even thousands, and that these modules can usually express themselves only through real action, not through verbal communication. Most of these systems, not unlike those existing in animals, can remember events, store affective reactions to those events, and respond to stimuli associated with a particular memory."
-```
+
 Michael S. Gazzaniga
 
 "The so-called unity of consciousness is an illusion. <...> We like to think that we are one; but we are not, most decidedly not. <...>I hold that the personal unconscious, as well as the collective unconscious, consists of an indefinite, because unknown, number of complexes or fragmentary personalities. <...> The complexes, then, are partial or fragmentary personalities. <...> So we may ask the question: Do complexes have a consciousness of their own? If you study spiritualism, you must admit that the so-called spirits manifested in automatic writing or through the voice of a medium do indeed have a sort of consciousness of their own."
